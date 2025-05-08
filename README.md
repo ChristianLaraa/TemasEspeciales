@@ -1,5 +1,5 @@
 # TemasEspeciales
-#sub titulo
+# subtitulo
 
 1. Agregar un cambio 
 2. Agregar colaboradores (2 a 5)
